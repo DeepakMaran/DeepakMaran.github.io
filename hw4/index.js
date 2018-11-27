@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Here was Trowlesworthy Farm and a great rabbit  warren that extended round about it.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'The blending of fact and fancy which men call legend reached its fullest and richest expression in the golden age of Greece, and thus it is to Greek mythology that one must turn for the best form of any legend which foreshadows history.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'We do not hear so much of the discontent in India now as we did three or four years ago.'      
 };
 
 function status(statusText) {
