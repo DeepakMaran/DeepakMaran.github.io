@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Here was Trowlesworthy Farm and a great rabbit warren that extended round about it.',
+      'Here was Trowlesworthy Farm and a great rabbit  warren that extended round about it.',
   'example2':
       'The blending of fact and fancy which men call legend reached its fullest and richest expression in the golden age of Greece, and thus it is to Greek mythology that one must turn for the best form of any legend which foreshadows history.',
   'example3':
